@@ -1,0 +1,16 @@
+{
+"name": "devguard-sdk", 
+"version": "1.0.0", 
+"description": "A lightweight Node.js SDK for API rate limiting, API key validation and IP blocking.", 
+"main": "index.js", 
+"keywords": [ "nodejs", "sdk", "express", "rate-limit", "api-security", "api-key", "ip-blocking" ], 
+"author": "Vivek singh", 
+"license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
